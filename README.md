@@ -1,2 +1,2 @@
 # latian-branch
-Belajar Branch dengan Dicoding
+Belajar Branch Dasar
